@@ -26,7 +26,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/cruel2013/rasoul2023/master/in
 To install your desired version you can add the version to the end of install command. Example for ver `v1.6.1`:
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh) v1.6.1
+bash <(curl -Ls https://raw.githubusercontent.com/cruel2013/rasoul2023/master/install.sh) v1.6.1
 ```
 
 # SSL
